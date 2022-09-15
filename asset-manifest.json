@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comicstore/static/css/main.d25c3aa0.css",
+    "main.js": "/comicstore/static/js/main.5e52c919.js",
+    "static/js/787.884e199e.chunk.js": "/comicstore/static/js/787.884e199e.chunk.js",
+    "index.html": "/comicstore/index.html",
+    "main.d25c3aa0.css.map": "/comicstore/static/css/main.d25c3aa0.css.map",
+    "main.5e52c919.js.map": "/comicstore/static/js/main.5e52c919.js.map",
+    "787.884e199e.chunk.js.map": "/comicstore/static/js/787.884e199e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25c3aa0.css",
+    "static/js/main.5e52c919.js"
+  ]
+}
