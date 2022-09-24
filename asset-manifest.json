@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/comicstore/static/css/main.537d1388.css",
-    "main.js": "/comicstore/static/js/main.5e52c919.js",
+    "main.css": "/comicstore/static/css/main.6cbd39d2.css",
+    "main.js": "/comicstore/static/js/main.94ffed7d.js",
     "static/js/787.884e199e.chunk.js": "/comicstore/static/js/787.884e199e.chunk.js",
     "index.html": "/comicstore/index.html",
-    "main.537d1388.css.map": "/comicstore/static/css/main.537d1388.css.map",
-    "main.5e52c919.js.map": "/comicstore/static/js/main.5e52c919.js.map",
+    "main.6cbd39d2.css.map": "/comicstore/static/css/main.6cbd39d2.css.map",
+    "main.94ffed7d.js.map": "/comicstore/static/js/main.94ffed7d.js.map",
     "787.884e199e.chunk.js.map": "/comicstore/static/js/787.884e199e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.537d1388.css",
-    "static/js/main.5e52c919.js"
+    "static/css/main.6cbd39d2.css",
+    "static/js/main.94ffed7d.js"
   ]
 }
